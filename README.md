@@ -5,8 +5,8 @@
 > * JavaSE 1.8
 > * Eclipse Neon
 
-在Java中有三种实现方式：JDK方式、BC方式（bouncycastle）、CC方式（commons-codec）
-其中：
+在Java中有三种实现方式：JDK方式、BC方式（bouncycastle）、CC方式（commons-codec）<br>
+其中：<br>
 JDK方式，是使用JDK1.8或JRE1.8版本；<br>
 BC方式，使用bouncycastle的jar包bcprov-jdk15on-155.jar，实现Base64加密、解密；<br>
 jar包的下载地址：http://www.bouncycastle.org/latest_releases.html <br><br>
@@ -17,7 +17,7 @@ jar包的下载地址：http://commons.apache.org/proper/commons-codec/download_
 ![](https://github.com/wyue2015/Base64/blob/master/1.png)
 
 测试结果:
-aGVsbG8gd29ybGSjusTjusOjoQ==
+aGVsbG8gd29ybGSjusTjusOjoQ==  <br>
 hello world：你好！
 
 ---------
